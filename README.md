@@ -12,8 +12,5 @@ I like to work on low level tools, data compression, and programming language de
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum-branching&theme=midnight_purple&animation=sequence&duration=5&name=QuantumBranching"/ width="66.5%">
 </picture>
 
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=quantum-branching&theme=midnight_purple&exclude_repos=MCHPR%2FMCHPRS)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum-branching&theme=midnight_purple&name=QuantumBranching)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quantum-branching&theme=midnight_purple&animation=sequence&duration=5&name=QuantumBranching)
--->
+<!-- LANGUAGES BREAKDOWN START -->
+<!-- LANGUAGES BREAKDOWN END -->
