@@ -13,4 +13,10 @@ I like to work on low level tools, data compression, and programming language de
 </picture>
 
 <!-- PUBLIC CODE STATS START -->
+Public, non-fork repositories owned by [@quantum-branching](https://github.com/quantum-branching): **9**
+
+| Language | Code lines |
+| --- | ---: |
+| Others | 11,876 |
+| **Total** | **11,876** |
 <!-- PUBLIC CODE STATS END -->
